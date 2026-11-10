@@ -180,6 +180,7 @@ Language servers bring IDE features (completion, diagnostics, navigation, and mo
 - [OneCite](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
 - [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
 - [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
+- [BibProof](https://bibproof.com/citation-checker) - Browser tool that checks a BibTeX file or pasted reference list against Crossref and flags missing records or mismatched fields.
 
 ## Build Tools
 
